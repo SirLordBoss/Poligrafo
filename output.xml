@@ -1,0 +1,94 @@
+<entailment-corpus>
+<pair id="001" contradiction="YES" type="negation">
+		<t>Tariq Aziz was not considered a member of Saddam's innermost circle.</t>
+		<h>Tariq Aziz was in Saddam's inner circle.</h>
+</pair>
+<pair id="003" contradiction="YES" type="negation">
+		<t>Tariq Aziz was not one of the most powerful figures in Saddam's regime.</t>
+		<h>Tariq Aziz was prominent in the regime.</h>
+</pair>
+<pair id="009" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case."</t>
+		<h>Collin Finnerty was arrested on charges of sexual offense.</h>
+</pair>
+<pair id="010" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case.</t>
+		<h>Two sophomore Duke lacrosse players were arrested.</h>
+</pair>
+<pair id="015" contradiction="YES" type="negation">
+		<t>The African Union's mandate in Darfur is to monitor the cease-fire, not enforce it.</t>
+		<h>The African Union will have to enforce the peace agreement.</h>
+</pair>
+<pair id="017" contradiction="YES" type="negation">
+		<t>The National Security Agency carries out electronic surveillance of American citizens.</t>
+		<h>The eavesdropping network of the agency [NSA] was not directed at U.S. citizens.</h>
+</pair>
+<pair id="019" contradiction="YES" type="negation">
+		<t>Sudan will grant permission for United Nations peacekeeping forces to take up station in Darfur.</t>
+		<h>Sudan is as adamant as ever that it will never accept U.N. peacekeepers.</h>
+</pair>
+<pair id="026" contradiction="YES" type="negation">
+		<t>Sudan is as adamant as ever that it will never accept U.N. peacekeepers .</t>
+		<h>It [Sudanese government] supports a U.N. peacekeeping force to replace the overwhelmed African Union force of 7,000.</h>
+</pair>
+<pair id="027" contradiction="YES" type="negation">
+		<t>Sudan is as adamant as ever that it will never accept U.N. peacekeepers.</t>
+		<h>It [Sudanese government] will accept it [U.N. forces].</h>
+</pair>
+<pair id="028" contradiction="YES" type="negation">
+		<t>Sudan was ready to accept U.N. troops.</t>
+		<h>Sudan is as adamant as ever that it will never accept U.N. peacekeepers.</h>
+</pair>
+<pair id="029" contradiction="YES" type="negation">
+		<t>Sudan was ready to accept U.N. troops.</t>
+		<h>The Khartoum government had not yet granted that [U.N. assessment team into Darfur] permission.</h>
+</pair>
+<pair id="030" contradiction="YES" type="negation">
+		<t>No direct link has been established between the two kidnappings [by Hezbollah and Hamas of Israeli soldiers]</t>
+		<h>Some form of coordination [between the two kidnappings by Hezbollah and Hamas of Israeli soldiers] can't be ruled out.</h>
+</pair>
+<pair id="049" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case.</t>
+		<h>Collin Finnerty was arrested on charges of kidnapping.</h> 
+</pair>
+<pair id="050" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case.</t>
+		<h>Collin Finnerty was arrested on charges of rape.</h>
+</pair>
+<pair id="051" contradiction="YES" type="negation">
+		<t>No one has been arrested in the case.</t>
+		<h>Reade Seligmann, 20 was also arrested.</h>
+</pair>
+<pair id="052" contradiction="YES" type="negation">
+	    <t>The Ministers have to be members of Parliament.</t>
+	    <h>The Prime Minister is no longer required to be a member of the parliament.</h>
+</pair>
+<pair id="062" contradiction="YES" type="negation">
+    <t>"We found the weapons of mass destruction. We found biological laboratories," Mr. Bush told Polish television. "For those who say we haven't found the banned manufacturing devices or banned weapons, they're wrong, we found them."</t>
+    <h>On Sept. 9, 2004, in Pennsylvania, Mr. Bush said: "I recognize we didn't find the stockpiles [of weapons] we all thought were there."</h>
+</pair>
+<pair id="067" contradiction="YES" type="negation">
+    <t>"I don't think you can win it," Mr. Bush said of the war on terror in August.</t>
+    <h>Mr. Bush said: "We meet today in a time of war for our country, a war we did not start yet one that we will win." He later added, "we are winning, and we will win."</h>
+</pair>
+<pair id="081" contradiction="YES" type="negation">
+    <t> UN Secretary General Kofi Annan has expressed deep concern over Saturday's Israeli commando raid deep inside Lebanon, calling it a truce violation.</t>
+    <h>"We had specific information of arms transfers taking place and we acted to prevent that violation, so that violation is not from the Israeli side - we were responding to a violation of the resolution by Hezbollah," said Israeli spokesman Mark Regev.</h>
+</pair>
+<pair id="098" contradiction="YES" type="negation">
+    <t>The American Reform party is not a political party, they do not have ballot access in any state, and they do not run candidates.</t>
+    <h>The American Reform Party is a minor political party in the United States that was formed in a factional split from the larger Reform Party of the United States in October 1997.</h>
+</pair>
+<pair id="109" contradiction="YES" type="negation">
+	<t>The defendant argued that Likens was not qualified to give either an expert opinion under Ind.Evid.Rule 702 or a lay opinion under Ind.Evid.Rule 701.</t>
+	<h>The court disagreed and found that while Likens was not sufficiently qualified as an expert under Rule 702, he was qualified as a skilled witness under Rule 701.</h>
+</pair>
+<pair id="113" contradiction="YES" type="negation">
+	<t>The transition to the younger Mr Lee "will not offer much comfort to those seeking more openness," he said, "his speeches very much resemble his father's."</t>
+	<h>But Steve Chia, one of Singapore's few non-PAP politicians and a vocal government critic, said he expected Mr Lee's leadership to be "more open and consultative", particularly on social issues.</h>
+</pair>
+<pair id="121" contradiction="YES" type="negation">
+    <t>The American Reform Party is a minor political party in the United States that was formed in a factional split from the larger Reform Party of the United States in October 1997.</t>
+    <h>The American Reform Party is not a political party, they do not have ballot access in any state, and they do not run candidates.</h>
+</pair>
+</entailment-corpus>
